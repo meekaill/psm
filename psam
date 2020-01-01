@@ -3,6 +3,8 @@
 https://edge1.psmconnect.mv////channels/live/tvmej3d937lte-1-1/tvm-1.mpd
 #EXTINF:-4 group-title="MALDIVES" tvg-logo=" ",PSM NEWS HD
 https://edge1.psmconnect.mv////channels/live/psm-news6hzp71bpvb-2-2/psm-news-2.mpd
+#EXTINF:-4 group-title="MALDIVES" tvg-logo=" ",YES TV
+https://edge1.psmconnect.mv////channels/live/yestvwl72jjmwwh-3-3/yestv-3.mpd
 
 
 
