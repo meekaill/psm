@@ -5,6 +5,8 @@ https://edge1.psmconnect.mv////channels/live/tvmej3d937lte-1-1/tvm-1.mpd
 https://edge1.psmconnect.mv////channels/live/psm-news6hzp71bpvb-2-2/psm-news-2.mpd
 #EXTINF:-4 group-title="MALDIVES" tvg-logo=" ",YES TV
 https://edge1.psmconnect.mv////channels/live/yestvwl72jjmwwh-3-3/yestv-3.mpd
+#EXTINF:-4 group-title="MALDIVES" tvg-logo=" ",VTV
+https://5d8c981b6bef9.streamlock.net/vtvlive/vmedia/chunklist_w1695511199.m3u8
 
 
 
